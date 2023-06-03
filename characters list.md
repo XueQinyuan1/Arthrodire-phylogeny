@@ -259,109 +259,109 @@ THORACIC ARMOUR
 
 Addition（37）
 
-1) 122.Link between the two neurocranium components (ethmoid and postethmoid parts): no link(‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1). 
+122.（1）Link between the two neurocranium components (ethmoid and postethmoid parts): no link(‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).
 
-(9) 123.Preorbital plates show an embayment for insertion of pineal or rostropineal plate: no, or very shallow (0); yes, very deep (1).
+123.（2）Position of foramen for hyomandibular branch of facial nerve in relation to anterior postorbital process: foramen in distal part of the anterior postorbital process (0); foramen in proximoposterior position (1).
 
-(10)124. Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1). Related to 1?
+124.（3）Neurocranial supraorbital process: absent (0); present (1).
 
-(11) 125.Postnasal plates fused or not to preorbital plates: fusion (0); no fusion (1).
+125.（4）Neurocranial basal process: absent (0); present (1).
 
-(12) 126.Position of orbits on skull roof: dorsal (0); lateral (1).
+126.（5）Rostral, pineal, or rostropineal plates: absent (0); present (1).
 
-(13) 127.Preorbital plates: separate (0); fused (1).
+127.（6）Position of pineal plate: further anteriorly from orbits (0); same level as orbits (1).
 
-(15)128. Supraorbital sensory lines: separate (0); meet posteriorly (1). Related to the 13 ?
+128.（9）Preorbital plates show an embayment for insertion of pineal or rostropineal plate: no, or very shallow (0); yes, very deep (1).
 
-(16)139. Infraorbital and cephalic main lateral sensory lines run along mesial margin of the marginal plate: no (0); yes (1).
+129.（10）Pineal or rostropineal plate fused to skull roof: no fusion (0); fusion (1).
 
-(17) 130.Central plates: fused into ‘centronuchal’ plate (0); individulized paired elements (1).
+130.（11）Postnasal plates fused or not to preorbital plates: fusion (0); no fusion (1).
 
-(19) 131.Contact between pineal (or rostropineal) and central plates: absent (0); present (1).
+131.（12）Position of orbits on skull roof: dorsal (0); lateral (1).
 
-(18) 132. Midline contact between paired central plates: straight (0); sinuous (1).
+132.（13）Preorbital plates: separate (0); fused (1).
 
-(21) 133.Contact between central and preorbital plates: present (0); absent (1).
+133.（14）External morphology of sensory line system: canals with external pores (0); grooves (1).
 
-(24) 134.Nuchal plate: absent (0); present (1). ?(Dupret. 2008)
+134.（15）Supraorbital sensory lines: separate (0); meet posteriorly (1).
 
-(25) 135.Nuchal plate separating central plates: no (0); yes (1).
+135.（16）Infraorbital and cephalic main lateral sensory lines run along mesial margin of the marginal plate: no (0); yes (1).
 
-(27) 136.Preorbital plates forming part of orbital margin: yes (0); no (1).
+136.（17）Central plates: fused into ‘centronuchal’ plate (0); individulized paired elements (1).
 
-(28) 137.Central sensory line leaves postorbital plate until radiation center of central plates: no (0); yes (1).
+137.（18）Midline contact between paired central plates: straight (0); sinuous (1).
 
-(29) 138.Number of posterior pit lines: two pairs (0); one pair (1).
+138.（19）Contact between pineal (or rostropineal) and central plates: absent (0); present (1).
 
-(30) 139.Posterior pit line distribution on both central and paranuchal plates: anterior and posterior ends clearly connected (0); anterior and posterior ends not connected (implying a superficial run) (1)
+139.（21）Contact between central and preorbital plates: present (0); absent (1).
 
-(32) 140.Postmarginal plate: absent (0); present (1).
+140.（24）Nuchal plate: absent (0); present (1).
 
-(33) 141.Contact suture between nuchal and central plates (external side): nuchal plate indenting central plates (0); straight contact (1).
+141.（25）Nuchal plate separating central plates: no (0); yes (1).
 
-(36) 142.Occipital cross commissure: on both nuchal and paranuchal plates (0); only on paranuchal plates (1).
+142.（26）Contact between orbits and central plates: absent (0); present (1).
 
-(39) 143.Position of external foramen for endolymphatic duct: very forwardly positioned from posterior edge of paranuchal plate, or on anterior paranuchal plate for Petalichthyida (0); near the posterior edge of paranuchal plate (1).
+143.（27）Preorbital plates forming part of orbital margin: yes (0); no (1).
 
-(40) 144.Type of exoskeletal dermal craniothoracic articulation: actinolepid ‘sliding neck joint’ (0); ginglymoid phlyctaeioid type (1); ‘spoon-like’ petalichthyid type (2).
+144.（28）Central sensory line leaves postorbital plate until radiation center of central plates: no (0); yes (1).
 
-(45) 145.Extrascapular plate: absent (0); present (1).
+145.（29）Number of posterior pit lines: two pairs (0); one pair (1).
 
-(48) 146.Pectoral notch of anterior ventrolateral plate: shallow (0); deep (1).
+146.（30）Posterior pit line distribution on both central and paranuchal plates: anterior and posterior ends clearly connected (0); anterior and posterior ends not connected (implying a superficial run) (1)
 
-(49) 147.Prepectoral process of anterior ventrolateral plate: short (0); long (1).
+147.（31）Central sensory line: absent (0); present (1).
 
-(50) 148.Anteroventral plates: absent (0); present (1).  Present（1）,absent(0)?
+148.（32）Postmarginal plate: absent (0); present (1).
 
-(52) 149.Anterior medioventral plate: absent (0); present (1)
+149.（34）Contact between pineal and nuchal plates: absent (0); present (1).
 
-(53) 150.Posterior medioventral plate: absent (0); present (1).
+150.（35）Number of paranuchal plate pairs: one pair (0); two pairs (1).
 
-(54) 151.Posterior ventrolateral plates mutually overlapping: simple overlapping (0); sinusoidal/double overlapping (1).
+151.（36）Occipital cross commissure: on both nuchal and paranuchal plates (0); only on paranuchal plates (1).
 
-(55) 152.Spinelets on mesial side of spinal plate: absent (0); present (1).
+152.（37）Posterolateral edge of paranuchal plates: convex (0); concave (1).
 
-(57) 153.Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L <= 0.5 (1).
+153.（39）Position of external foramen for endolymphatic duct: very forwardly positioned from posterior edge of paranuchal plate, or on anterior paranuchal plate for Petalichthyida (0); near the posterior edge of paranuchal plate (1).
 
-(58) 154.Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-most edge of skull roof): LC/LSR < 45% (0); LC/LSR => 45% (1).
+154.（40）Type of exoskeletal dermal craniothoracic articulation: actinolepid ‘sliding neck joint’ (0); ginglymoid phlyctaeioid type (1); ‘spoon-like’ petalichthyid type (2).
 
-(61) 155.Length/width ratio (L/W) of anterior dorsolateral plate: L/ H < 1 (0); L/H =>1 (1).
+155.（42）Ventral keel on internal side of median dorsal plate: absent (0); present (1).
 
-(63) 156.Angle between interolateral and spinal plates: angle > 110 (0); angle =>110 (1).
+156.（43）Unornamented (overlapped) area on anterior edge of median dorsal plate: absent (0); present (1).
 
-Angle between interolateral and spinal plates: angle > 110 (0); angle <=110 (1).
+157.（44）This unornamented zone: simple (0); double (1).
 
-(64) 157.RSp (=LSp borne by AVL/LSp): RSp < 60% (0); RSp =>60% (1). [ratio of [length proportion of the spinal plate borne by the anterior ventrolateral plate] over otal length f the spinal plate]
+158.（45）Extrascapular plate: absent (0); present (1).
 
-(65) 158.Length/width ratio (L/W) of posterior ventrolateral plates: L/W < 1.5 (0); L/W =>1.5 (1).
+159.（46）Dorsolateral groove (for accessory line) on anterior dorsolateral plate: absent (0); present (1).
 
-不确定部分（18）
+160.（47）Posterior lateral plate: absent (0); present (1).
 
-1) Position of foramen for hyomandibular branch of facial nerve in relation to anterior postorbital process: foramen in distal part of the anterior postorbital process (0); foramen in proximoposterior position (1).
+161.（48）Pectoral notch of anterior ventrolateral plate: shallow (0); deep (1).
 
-(3) Neurocranial supraorbital process: absent (0); present (1).
+162.（49）Prepectoral process of anterior ventrolateral plate: short (0); long (1).
 
-(4) Neurocranial basal process: absent (0); present (1).
+163.（50） Anteroventral plates: absent (0); present (1).  Present（1）,absent(0)
 
-(5) Rostral, pineal, or rostropineal plates: absent (0); present (1).     
+164. (52) Anterior medioventral plate: absent (0); present (1)
 
-(37) Posterolateral edge of paranuchal plates: convex (0); concave (1).
+165. (53) Posterior medioventral plate: absent (0); present (1).
 
-(47) Posterior lateral plate: absent (0); present (1).
+166.（54）Posterior ventrolateral plates mutually overlapping: simple overlapping (0); sinusoidal/double overlapping (1).
 
-(43) Unornamented (overlapped) area on anterior edge of median dorsal plate: absent (0); present (1).
+167.（55）Spinelets on mesial side of spinal plate: absent (0); present (1).
 
-(44) This unornamented zone: simple (0); double (1).
+168.（57）Width/length (W/L) ratio of preorbital plates: W/L > 0.5 (0); W/L <= 0.5 (1).
 
-(46) Dorsolateral groove (for accessory line) on anterior dorsolateral plate: absent (0); present (1).
+169.（58）Central plate length/skull roof length ratio (LC/LSR; from anterior edge of preorbital plates to posterior-most edge of skull roof): LC/LSR < 45% (0); LC/LSR => 45% (1).
 
-(56) Posterior median dorsal plates covering the tail: absent (0); present (1).
+170.（59）Length/width ratio (L/W) of nuchal plate: L/W< 1.5 (0); L/W>1.5(1).
 
-(59) Length/width ratio (L/W) of nuchal plate: L/W< 1.5 (0); L/W>1.5(1).
+171.（62）Length/width ratio (L/W) of posterior dorsolateral plate: L/H < 2 (0); L/H> 2 (1).
 
-(60) Length/width ratio (L/W) of median dorsal plate: L/W < 1.5 (0); L/W >1.5 (1).
+172.（64） RSp (=LSp borne by AVL/LSp): RSp < 60% (0); RSp =>60% (1). [ratio of [length proportion of the spinal plate borne by the anterior ventrolateral plate] over otal length f the spinal plate]
 
-(62) Length/width ratio (L/W) of posterior dorsolateral plate: L/H < 2 (0); L/H> 2 (1).
+173.（65）Length/width ratio (L/W) of posterior ventrolateral plates: L/W < 1.5 (0); L/W =>1.5 (1).
 
 .
 
