@@ -257,7 +257,7 @@ THORACIC ARMOUR
 
 121\. Anteroventral groove on the ventral surface of the interolateral plate: absent (0); present (1). Miles (1965)
 
-Addition（37）
+Addition（35）
 
 122.（1）Link between the two neurocranium components (ethmoid and postethmoid parts): no link(‘loose nose’ fishes) (0); fusion (by osseous trabecles or total fusion) (1).
 
